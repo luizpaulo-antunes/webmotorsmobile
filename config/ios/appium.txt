@@ -1,0 +1,10 @@
+[caps]
+automationName = "XCUITest"
+deviceName = "IoSMobile"
+platformName = "iOS"
+platformVersion = "14.0"
+app = "mobilewebmotors/app/webmotors.ipa"
+autoAcceptAlerts = true
+[appium_lib]
+wait = 20
+debug = false

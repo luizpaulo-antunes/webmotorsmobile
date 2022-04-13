@@ -1,0 +1,10 @@
+##Cucumber template
+---
+default: --publish-quiet -p pretty -p html 
+
+scenario: --tag @criar_contato
+
+pretty: --format pretty
+progress: --format progress
+
+html: --format html --out=results/report.html

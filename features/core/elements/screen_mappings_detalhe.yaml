@@ -1,0 +1,22 @@
+ios:
+  
+android:
+ detalhe:
+    nome:
+      tipo_busca: 'ID'
+      value: 'br.com.siatiquosque.webmotorstest:id/tvCarName'
+    desc:
+      tipo_busca: 'ID'
+      value: 'br.com.siatiquosque.webmotorstest:id/tvCarDesc'
+    preco:
+      tipo_busca: 'ID'
+      value: 'br.com.siatiquosque.webmotorstest:id/tvValue'
+    ano:
+      tipo_busca: 'ID'
+      value: 'br.com.siatiquosque.webmotorstest:id/tvYearValue'
+    km:
+      tipo_busca: 'ID'
+      value: 'br.com.siatiquosque.webmotorstest:id/tvKmValue'
+    cor:
+      tipo_busca: 'ID'
+      value: 'br.com.siatiquosque.webmotorstest:id/tvColorValue'

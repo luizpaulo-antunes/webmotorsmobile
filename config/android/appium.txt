@@ -1,0 +1,11 @@
+[caps]
+platformName = "Android"
+deviceName = "Android"
+app = "./app/webmotors.apk"
+autoGrantPermissions = true
+newCommandTimeout = 3600
+[appium_lib]
+wait = 20
+debug = false
+
+
